@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0093E9&size=35&center=true&vCenter=true&width=1000&lines=Hi+folks!;+Welcome+to+my+curriculum+vitae+project)](https://git.io/typing-svg)
 
-#
+# Preview
 ![Design sem nome (1)](https://user-images.githubusercontent.com/110487772/236210466-590438b6-d5bc-4f52-b7d1-e0176ba15d37.gif)
 
 <br>
