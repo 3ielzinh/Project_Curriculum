@@ -8,10 +8,15 @@
 <br>
 
 # About
+
+## EN
+### In this project, I created a fictional resume using HTML and CSS. It's a simple project, but it allowed me to practice my web development skills.
+<br>
+
+## PT-BR
 ### Neste projeto, desenvolvi um currículo fictício utilizando HTML e CSS. Trata-se de um projeto simples, mas que me permitiu praticar minhas habilidades de desenvolvimento web.
 
 <br>
-
 
 # Skills used
 <p align="left">
